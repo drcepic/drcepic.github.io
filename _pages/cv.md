@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,81 @@ redirect_from:
 
 {% include base_path %}
 
+<br/>
+
+
+Research experience
+======
+<p>
+    <span> <b>Postdoctoral Researcher</b> </span>
+    <span style="float:right;">2024–</span>
+    <div class="clearix"></div>
+</p>
+
+<img align="right" src="../images/mpi-logo_2.png" width="75px" style="padding-right: 1px">
+
+  - Max Planck Institute for Evolutionary Biology, Germany
+
+<br/>
+
+<hr>
+
+<p>
+    <span> <b>PhD candidate</b> </span>
+    <span style="float:right;">2019–2024</span>
+    <div class="clearix"></div>
+</p>
+
+<img align="right" src="../images/mpi-logo_2.png" width="75px" style="padding-right: 1px">
+
+  - Max Planck Institute for Evolutionary Biology, Germany
+
+<br/><br/>
+
+
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<hr>
+<p>
+    <span> <b>PhD in Evolutionary Biology </b> </span>
+    <span style="float:right;">2019–2024</span>
+    <div class="clearix"></div>
+</p>
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<img align="right" src="../images/maxplanck-cau.png" width="130px" style="padding-right: 0px">
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  - Max Planck Institute for Evolutionary Biology, Germany
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  - Faculty of Mathematics and Natural Sciences, Kiel University, Germany
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+    - Thesis: [The role of _B4galnt2_ in shaping the outcome of antibiotic treatment and susceptibility to enteric pathogens](https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3616380)
+
+<hr>
+
+<p>
+    <span> <b>MSc in Molecular Biology and Physiology </b> </span>
+    <span style="float:right;">2016–2017</span>
+    <div class="clearix"></div>
+</p>
+
+<img align="right" src="../images/belgrade_uni.png" width="125px" style="padding-right: 1px">
+
+  - Faculty of Biology, University of Belgrade, Serbia
+
+
+ <hr>
+
+<p>
+    <span> <b>BSc in Molecular Biology and Physiology</b> </span>
+    <span style="float:right;">2011–2016</span>
+    <div class="clearix"></div>
+</p>
+
+<img align="right" src="../images/belgrade_uni.png" width="125px" style="padding-right: 1px">
+
+  - Faculty of Biology, University of Belgrade, Serbia
+
+<hr>
+
+<br/>
