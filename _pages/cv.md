@@ -92,6 +92,12 @@ Conferences
 ======
 <hr>
 <p>
+    <span> CRC1526: Pathomechanisms of Antibody-mediated Autoimmunity Retreat<br> Berlin, Germany - Oral presentation </span>
+    <span style="float:right;">14-15 Nov 2024</span>
+    <div class="clearix"></div>
+</p>
+
+<p>
     <span> International Max Planck Research School for Evolutionary Biology Retreat<br> Kiel, Germany - Oral presentation </span>
     <span style="float:right;">16-17 Sep 2021</span>
     <div class="clearix"></div>
