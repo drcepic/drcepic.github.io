@@ -92,34 +92,37 @@ Conferences
 ======
 <hr>
 <p>
-    <span> <b>International Max Planck Research School for Evolutionary Biology Retreat<br> Kiel - Oral presentation</b> </span>
+    <span> International Max Planck Research School for Evolutionary Biology Retreat<br> Kiel - Oral presentation </span>
     <span style="float:right;">16-17 Sep 2021</span>
     <div class="clearix"></div>
 </p>
 
 <p>
-    <span> <b>Aquavit 2021<br> MPI for Evolutionary Biology, Plön - Oral presentation</b> </span>
+    <span> Aquavit 2021<br> MPI for Evolutionary Biology, Plön - Oral presentation </span>
     <span style="float:right;">17-18 Jun 2021</span>
     <div class="clearix"></div>
 </p>
 
 <p>
-    <span> <b>International Max Planck Research School for Evolutionary Biology Retreat<br> MPI for Evolutionary Biology, Plön, - Video presentation</b> </span>
+    <span> International Max Planck Research School for Evolutionary Biology Retreat<br> MPI for Evolutionary Biology, Plön, - Video presentation </span>
     <span style="float:right;">17-18 Sep 2020</span>
     <div class="clearix"></div>
 </p>
 
 <p>
-    <span> <b>International Max Planck Research School for Evolutionary Biology Retreat<br> Oeversee - Poster presentation</b> </span>
+    <span> International Max Planck Research School for Evolutionary Biology Retreat<br> Oeversee - Poster presentation </span>
     <span style="float:right;">11-13 Sep 2019</span>
     <div class="clearix"></div>
 </p>
 
 <p>
-    <span> <b>Microbiota, Probiotics and Host, 12th Seeon Conference<br> Seeon - Poster presentation</b> </span>
+    <span> Microbiota, Probiotics and Host, 12th Seeon Conference<br> Seeon - Poster presentation </span>
     <span style="float:right;">28-30 Jun 2019</span>
     <div class="clearix"></div>
 </p>
 
+<hr>
+
+<br/>
 
 
