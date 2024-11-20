@@ -92,12 +92,12 @@ Conferences
 ======
 <hr>
 
-<div style="display: flex; gap: 15px;">
+<div style="display: flex; gap: 10px;">
   <div style="flex: 7; text-align: left;">
     <!-- First column with two paragraphs -->
     <p>CRC1526: Pathomechanisms of Antibody-mediated Autoimmunity Retreat<br> Berlin, Germany - Oral presentation</p>
   </div>
-  <div style="flex: 1; text-align: right;">
+  <div style="flex: 2; text-align: right;">
     <!-- Second column with one paragraph -->
     <p>14-15 Nov 2024</p>
   </div>
