@@ -18,10 +18,6 @@ Through metagenomic sequencing and bioinformatics, I aim to understand how gut a
 <hr>
 
 ## Fields of Interest:
-- Microbiota
-- Host-microbe interactions
-- Evolution
-- Inflammation
 
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1; text-align: left;">
