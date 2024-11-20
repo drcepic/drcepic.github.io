@@ -29,7 +29,7 @@ Through metagenomic sequencing and bioinformatics, I aim to understand how gut a
 
 ### • Influence of the Host Genetics on Gut Microbiota Dynamics, Antibiotic Response, and Colonization Resistance
 
-<p align='justify'>
+<p align='justify; style="text-indent: 25px'>
 The gut microbiota, a complex community of microorganisms, plays an important roles in nutrient metabolism, immune development, and pathogen defense. Differential expression of the <em>B4galnt2</em> gene influences these microbial communities, affecting host susceptibility to infections such as <em>Salmonella</em> Typhimurium. This research explores how <em>B4galnt2</em> expression impacts gut microbiota dynamics, particularly after antibiotic treatment and during infection, using shotgun metagenomic sequencing. Our findings reveal that <em>B4galnt2</em>-deficient mice exhibit faster microbiota recovery post-antibiotic treatment and greater resistance to pathogen colonization, with beneficial microbes like <em>Blautia</em> and <em>Akkermansia muciniphila</em> being enriched. Additionally, specific microbial profiles associated with <em>B4galnt2</em> alleles correlate with reduced inflammation and enhanced intestinal homeostasis. These results highlight the role of <em>B4galnt2</em> in shaping microbial diversity, recovery, and resistance to intestinal pathogens.
 </p>
 
