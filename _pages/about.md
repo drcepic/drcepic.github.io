@@ -23,6 +23,21 @@ Through metagenomic sequencing and bioinformatics, I aim to understand how gut a
 - Evolution
 - Inflammation
 
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1; text-align: left;">
+    <ul>
+      <li>Microbiota</li>
+      <li>Host-microbe interactions</li>
+    </ul>
+  </div>
+  <div style="flex: 1; text-align: left;">
+    <ul>
+      <li>Evolution</li>
+      <li>Inflammation</li>
+    </ul>
+  </div>
+</div>
+
 <hr>
 
 ## The Research:
