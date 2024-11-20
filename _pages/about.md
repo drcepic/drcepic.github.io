@@ -50,4 +50,4 @@ The gut microbiota, a complex community of microorganisms, plays an important ro
 This project focuses on interplay between the skin microbiota and immune responses, particularly in Bullous Pemphigoid (BP). In this research we explore how alterations in skin microbial communities contribute to disease initiation and severity, with a specific focus on T cell-mediated immunity. Distinct microbial profiles have been identified in patients compared to controls, with notable differences between lesional and non-lesional sites. These microbiota shifts are analyzed for their potential role in immune dysregulation, particularly their influence on T cell-mediated responses. Using advanced sequencing and microbial profiling techniques, we examine key indicator species, such as <em>Staphylococcus</em> and <em>Corynebacterium</em>, to uncover mechanisms driving disease pathology. The work seeks to provide insights into BP pathogenesis and to support the development of targeted diagnostic and therapeutic strategies.
 </p>
 
-<img src="CRC1526.png">
+<img align="center" src="../images/CRC1526.png">
