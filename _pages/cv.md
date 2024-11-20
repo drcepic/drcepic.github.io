@@ -91,6 +91,18 @@ Education
 Conferences
 ======
 <hr>
+
+<div style="display: flex; gap: 15px;">
+  <div style="flex: 7; text-align: left;">
+    <!-- First column with two paragraphs -->
+    <p>CRC1526: Pathomechanisms of Antibody-mediated Autoimmunity Retreat<br> Berlin, Germany - Oral presentation</p>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <!-- Second column with one paragraph -->
+    <p>14-15 Nov 2024</p>
+  </div>
+</div>
+
 <p>
     <span> CRC1526: Pathomechanisms of Antibody-mediated Autoimmunity Retreat<br> Berlin, Germany - Oral presentation </span>
     <span style="float:right;">14-15 Nov 2024</span>
