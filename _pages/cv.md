@@ -29,7 +29,7 @@ Research experience
 <hr>
 
 <p>
-    <span> <b>PhD candidate</b> </span>
+    <span> <b>Doctoral Researcher</b> </span>
     <span style="float:right;">2019–2024</span>
     <div class="clearix"></div>
 </p>
