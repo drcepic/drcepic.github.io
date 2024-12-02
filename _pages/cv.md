@@ -30,6 +30,8 @@ Research experience
   </div>
 </div>
 
+<br/>
+
 <div style="display: flex; gap: 10px;">
   <!-- Left column -->
   <div style="flex: 7; text-align: left;">
@@ -45,6 +47,7 @@ Research experience
   </div>
 </div>
 
+<hr>
 
 <br/><br/>
 
@@ -71,6 +74,7 @@ Education
   </div>
 </div>
 
+<br/>
 
 <div style="display: flex; gap: 10px;">
   <!-- Left column -->
@@ -87,6 +91,7 @@ Education
   </div>
 </div>
 
+<br/>
 
 <div style="display: flex; gap: 10px;">
   <!-- Left column -->
