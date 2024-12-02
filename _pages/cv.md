@@ -45,6 +45,22 @@ Research experience
 Education
 ======
 <hr>
+
+<div style="display: flex; gap: 10px;">
+  <!-- Left column -->
+  <div style="flex: 7; text-align: left;">
+    <p>
+      <b>PhD in Biology</b>,Max Planck Institute for Evolutionary Biology and Kiel University, Germany
+    </p>
+  </div>
+  <!-- Right column -->
+  <div style="flex: 2; text-align: right;">
+    <p>2019–2024</p>
+    <img src="../images/maxplanck-cau.png" style="width: 130px; height: auto;">
+  </div>
+</div>
+
+
 <p>
     <span> <b>PhD in Biology </b>, Max Planck Institute for Evolutionary Biology and Kiel University, Germany </span>
     <span style="float:right;">2019–2024</span>
