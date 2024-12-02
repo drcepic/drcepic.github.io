@@ -26,7 +26,20 @@ Research experience
 
 <br/>
 
-<hr>
+<div style="display: flex; gap: 10px;">
+  <!-- Left column -->
+  <div style="flex: 7; text-align: left;">
+    <p>
+      <b>Doctoral Researcher</b>, Max Planck Institute for Evolutionary Biology, Germany
+    </p>
+  </div>
+  
+  <!-- Right column -->
+  <div style="flex: 2; text-align: right;">
+    <p>2019–2024</p>
+    <img src="../images/mpi-logo_2.png" style="width: 75px; height: auto;">
+  </div>
+</div>
 
 <p>
     <span> <b>Doctoral Researcher</b> </span>
@@ -64,7 +77,6 @@ Education
   </div>
 </div>
 
-<hr>
 
 <div style="display: flex; gap: 10px;">
   <!-- Left column -->
@@ -81,7 +93,6 @@ Education
   </div>
 </div>
 
-<hr>
 
 <div style="display: flex; gap: 10px;">
   <!-- Left column -->
