@@ -89,6 +89,7 @@ Education
   </div>
 </div>
 
+<hr style="height: 0; margin: 5px 0; border: none;">
 
 <div style="display: flex; gap: 10px;">
   <!-- Left column -->
