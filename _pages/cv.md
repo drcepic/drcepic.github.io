@@ -50,9 +50,13 @@ Education
   <!-- Left column -->
   <div style="flex: 7; text-align: left;">
     <p>
-      <b>PhD in Biology</b>,Max Planck Institute for Evolutionary Biology and Kiel University, Germany
+      <b>PhD in Biology</b>, Max Planck Institute for Evolutionary Biology and Kiel University, Germany
     </p>
+    <ul style="margin: 0; padding-left: 20px;">
+      <li>Thesis: <a href="http://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3616380">The role of B4galnt2 in shaping the outcome of antibiotic treatment and susceptibility to enteric pathogens</a></li>
+    </ul>
   </div>
+  
   <!-- Right column -->
   <div style="flex: 2; text-align: right;">
     <p>2019–2024</p>
