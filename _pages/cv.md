@@ -53,7 +53,7 @@ Education
       <b>PhD in Biology</b>, Max Planck Institute for Evolutionary Biology and Kiel University, Germany
     </p>
     <ul style="margin: 0; padding-left: 20px;">
-      <li>Thesis: <a href="http://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3616380">The role of B4galnt2 in shaping the outcome of antibiotic treatment and susceptibility to enteric pathogens</a></li>
+      <li>Thesis: <a href="http://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3616380">The role of <em>B4galnt2</em> in shaping the outcome of antibiotic treatment and susceptibility to enteric pathogens</a></li>
     </ul>
   </div>
   
@@ -64,16 +64,22 @@ Education
   </div>
 </div>
 
+<hr>
 
-<p>
-    <span> <b>PhD in Biology </b>, Max Planck Institute for Evolutionary Biology and Kiel University, Germany </span>
-    <span style="float:right;">2019–2024</span>
-    <div class="clearix"></div>
-</p>
-
-<img align="right" src="../images/maxplanck-cau.png" width="130px" style="padding-right: 0px">
-
-  - Thesis: [The role of _B4galnt2_ in shaping the outcome of antibiotic treatment and susceptibility to enteric pathogens](https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3616380)
+<div style="display: flex; gap: 10px;">
+  <!-- Left column -->
+  <div style="flex: 7; text-align: left;">
+    <p>
+      <b>MSc in Biology</b>, , University of Belgrade, Serbia
+    </p>
+  </div>
+  
+  <!-- Right column -->
+  <div style="flex: 2; text-align: right;">
+    <p>2016–2027</p>
+    <img src="../images/belgrade_uni.png" style="width: 125px; height: auto;">
+  </div>
+</div>
 
 <hr>
 
