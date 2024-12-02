@@ -70,38 +70,33 @@ Education
   <!-- Left column -->
   <div style="flex: 7; text-align: left;">
     <p>
-      <b>MSc in Biology</b>, , University of Belgrade, Serbia
+      <b>MSc in Biology</b>, University of Belgrade, Serbia
     </p>
   </div>
   
   <!-- Right column -->
   <div style="flex: 2; text-align: right;">
-    <p>2016–2027</p>
+    <p>2016–2017</p>
     <img src="../images/belgrade_uni.png" style="width: 125px; height: auto;">
   </div>
 </div>
 
 <hr>
 
-<p>
-    <span> <b>MSc in Biology </b>, University of Belgrade, Serbia </span>
-    <span style="float:right;">2016–2017</span>
-    <div class="clearix"></div>
-</p>
-
-<img align="right" src="../images/belgrade_uni.png" width="125px" style="padding-right: 1px">
-
-
-
- <hr>
-
-<p>
-    <span> <b>BSc in Biology </b>, University of Belgrade, Serbia </span>
-    <span style="float:right;">2011–2016</span>
-    <div class="clearix"></div>
-</p>
-
-<img align="right" src="../images/belgrade_uni.png" width="125px" style="padding-right: 1px">
+<div style="display: flex; gap: 10px;">
+  <!-- Left column -->
+  <div style="flex: 7; text-align: left;">
+    <p>
+      <b>BSc in Biology</b>, University of Belgrade, Serbia
+    </p>
+  </div>
+  
+  <!-- Right column -->
+  <div style="flex: 2; text-align: right;">
+    <p>2011–2016</p>
+    <img src="../images/belgrade_uni.png" style="width: 125px; height: auto;">
+  </div>
+</div>
 
 <hr>
 
