@@ -30,7 +30,6 @@ Research experience
   </div>
 </div>
 
-<br/>
 
 <div style="display: flex; gap: 10px;">
   <!-- Left column -->
@@ -49,7 +48,7 @@ Research experience
 
 <hr>
 
-<br/><br/>
+<br/>
 
 
 
@@ -74,7 +73,6 @@ Education
   </div>
 </div>
 
-<br/>
 
 <div style="display: flex; gap: 10px;">
   <!-- Left column -->
@@ -91,7 +89,6 @@ Education
   </div>
 </div>
 
-<br/>
 
 <div style="display: flex; gap: 10px;">
   <!-- Left column -->
@@ -110,7 +107,7 @@ Education
 
 <hr>
 
-<br/><br/>
+<br/>
 
 Conferences
 ======
