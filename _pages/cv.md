@@ -171,6 +171,8 @@ Conferences
 Professional Memberships
 ======
 
+- International Society for Evolution, Medicine, and Public Health
+
 <hr>
 
 <br/>
