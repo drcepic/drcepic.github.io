@@ -80,30 +80,13 @@ Education
   <!-- Left column -->
   <div style="flex: 7; text-align: left;">
     <p>
-      <b>MSc in Biology</b>, University of Belgrade, Serbia
+      <b>BSc & MSc in Biology</b>, University of Belgrade, Serbia
     </p>
   </div>
   
   <!-- Right column -->
   <div style="flex: 2; text-align: right;">
-    <p>2016–2017</p>
-    <img src="../images/belgrade_uni.png" style="width: 125px; height: auto;">
-  </div>
-</div>
-
-<hr style="height: 0; margin: 8px 0; border: none;">
-
-<div style="display: flex; gap: 10px;">
-  <!-- Left column -->
-  <div style="flex: 7; text-align: left;">
-    <p>
-      <b>BSc in Biology</b>, University of Belgrade, Serbia
-    </p>
-  </div>
-  
-  <!-- Right column -->
-  <div style="flex: 2; text-align: right;">
-    <p>2011–2016</p>
+    <p>2011–2017</p>
     <img src="../images/belgrade_uni.png" style="width: 125px; height: auto;">
   </div>
 </div>
