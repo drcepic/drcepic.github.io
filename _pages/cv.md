@@ -171,7 +171,8 @@ Conferences
 Professional Memberships
 ======
 
-- International Society for Evolution, Medicine, and Public Health
+- International Society for Evolution, Medicine, and Public Health (ISEMPH)
+- European Society of Clinical Microbiology and Infectious Diseases (ESCMID)
 
 <hr>
 
