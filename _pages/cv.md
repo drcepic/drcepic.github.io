@@ -68,7 +68,7 @@ Education
           [<a href="https://d-nb.info/1342899571" target="_blank">Deutsche Nationalbibliothek</a>]
           [<a href="https://hdl.handle.net/21.11116/0000-000F-F017-8" target="_blank">Max Planck Society</a>]
           [<a href="https://macau.uni-kiel.de/receive/macau_mods_00005252" target="_blank">University of Kiel</a>]
-          <a href="../files/Cepic_Aleksa_Dissertation.pdf"><i class="fa fa-file-pdf-o"></i>
+          [<a href="../files/Cepic_Aleksa_Dissertation.pdf" target="_blank">PDF</a>]
         </span>
       </li>
     </ul>
