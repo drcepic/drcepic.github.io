@@ -64,6 +64,10 @@ Education
     </p>
     <ul style="margin: 0; padding-left: 20px;">
       <li>Thesis: <a href="http://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_3616380">The role of <em>B4galnt2</em> in shaping the outcome of antibiotic treatment and susceptibility to enteric pathogens</a></li>
+      <li style="font-size: 0.9em; margin-top: 5px;">
+        [<a href="https://d-nb.info/1342899571" target="_blank">Deutsche Nationalbibliothek</a>]  
+        [<a href="https://macau.uni-kiel.de/receive/macau_mods_00005252" target="_blank">University of Kiel</a>]
+      </li>
     </ul>
   </div>
   
