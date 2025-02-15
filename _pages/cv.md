@@ -21,8 +21,8 @@ Research experience
     <p>
       <b>Postdoctoral Researcher</b>, Max Planck Institute for Evolutionary Biology, Germany
     </p>
-    <p><b>Microbiota-Specific T Cell Responses in Pemphigoid Diseases</b></p>
-    <ul style="margin: 0; padding-left: 20px;">
+    <p style="margin-top: 8px;"><i>Microbiota-Specific T Cell Responses in Pemphigoid Diseases</i></p>
+    <ul style="margin: 0; padding-left: 20px; font-size: 0.9em;">
       <li>Researched the role of skin microbiota in autoimmune disease progression</li>
       <li>Identified microbial patterns linked to immune system dysregulation</li>
       <li>Applied high-throughput sequencing and bioinformatics for microbial profiling</li>
@@ -45,8 +45,8 @@ Research experience
     <p>
       <b>Doctoral Researcher</b>, Max Planck Institute for Evolutionary Biology, Germany
     </p>
-    <p><b>Influence of Host Genetics on Gut Microbiota and Antibiotic Response</b></p>
-    <ul style="margin: 0; padding-left: 20px;">
+    <p style="margin-top: 8px;"><i>Influence of Host Genetics on Gut Microbiota and Antibiotic Response</i></p>
+    <ul style="margin: 0; padding-left: 20px; font-size: 0.9em;">
       <li>Investigated the impact of host genetics on gut microbiota composition and infection resistance</li>
       <li>Analyzed microbiome recovery post-antibiotic treatment using advanced sequencing methods</li>
       <li>Identified genetic factors influencing microbial diversity and recovery</li>
@@ -64,7 +64,6 @@ Research experience
 <hr>
 
 <br/>
-
 
 
 Education
