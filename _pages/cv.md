@@ -84,7 +84,7 @@ Education
           [<a href="../files/Cepic_Aleksa_Dissertation.pdf" target="_blank">PDF</a>]
         </span>
       </li>
-      <li>Supervisor: <a href="https://web.evolbio.mpg.de/evolgenomics" target="_blank">John F. Baines</a></li>
+      <li>Supervisor: <a href="https://www.evolbio.mpg.de/person/11969/16329" target="_blank">John F. Baines</a></li>
     </ul>
   </div>
   
