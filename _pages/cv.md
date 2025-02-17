@@ -78,7 +78,6 @@ Education
     <ul style="margin: 0; padding-left: 30px; font-size: 0.9em;">
       <li>
         <b>Dissertation:</b> The role of <em>B4galnt2</em> in shaping the outcome of antibiotic treatment and susceptibility to enteric pathogens
-        <br>
         <span style="font-size: 0.85em; padding-left: 15px;">
           [<a href="https://d-nb.info/1342899571" target="_blank">Deutsche Nationalbibliothek</a>]
           [<a href="https://hdl.handle.net/21.11116/0000-000F-F017-8" target="_blank">Max Planck Society</a>]
