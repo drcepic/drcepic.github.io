@@ -234,6 +234,7 @@ Professional Memberships
 
 - International Society for Evolution, Medicine, and Public Health (ISEMPH)
 - European Society of Clinical Microbiology and Infectious Diseases (ESCMID)
+- European Society for Evolutionary Biology (ESEB)
 
 <hr>
 
