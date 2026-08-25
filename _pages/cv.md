@@ -137,6 +137,15 @@ Conferences
 
 <div style="display: flex; gap: 10px;">
   <div style="flex: 7; text-align: left;">
+    <p>ISEMPH Conference<br> Kiel, Germany - Oral presentation</p>
+  </div>
+  <div style="flex: 2; text-align: right;">
+    <p>28-31 Jul 2026</p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 10px;">
+  <div style="flex: 7; text-align: left;">
     <p>FEMS Micro<br> Milan, Italy - Oral presentation</p>
   </div>
   <div style="flex: 2; text-align: right;">
