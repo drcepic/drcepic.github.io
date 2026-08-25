@@ -137,66 +137,81 @@ Conferences
 
 <div style="display: flex; gap: 10px;">
   <div style="flex: 7; text-align: left;">
-    <!-- First column with two paragraphs -->
+    <p>FEMS Micro<br> Milan, Italy - Oral presentation</p>
+  </div>
+  <div style="flex: 2; text-align: right;">
+    <p>14-17 Jul 2025</p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 10px;">
+  <div style="flex: 7; text-align: left;">
+    <p>Microbiota, Probiotics and Host, 17th Seeon Conference<br> Seeon, Germany - Oral presentation</p>
+  </div>
+  <div style="flex: 2; text-align: right;">
+    <p>26-28 Jun 2025</p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 10px;">
+  <div style="flex: 7; text-align: left;">
+    <p>Unravelling Autoimmunity: Pre-Disease meets Antibody-mediated Autoimmunity<br> Lübeck, Germany - Oral presentation</p>
+  </div>
+  <div style="flex: 2; text-align: right;">
+    <p>25-26 Mar 2025</p>
+  </div>
+</div>
+
+<div style="display: flex; gap: 10px;">
+  <div style="flex: 7; text-align: left;">
     <p>CRC1526: Pathomechanisms of Antibody-mediated Autoimmunity Retreat<br> Berlin, Germany - Oral presentation</p>
   </div>
   <div style="flex: 2; text-align: right;">
-    <!-- Second column with one paragraph -->
     <p>14-15 Nov 2024</p>
   </div>
 </div>
 
 <div style="display: flex; gap: 10px;">
   <div style="flex: 7; text-align: left;">
-    <!-- First column with two paragraphs -->
     <p>International Max Planck Research School for Evolutionary Biology Retreat<br> Kiel, Germany - Oral presentation</p>
   </div>
   <div style="flex: 2; text-align: right;">
-    <!-- Second column with one paragraph -->
     <p>16-17 Sep 2021</p>
   </div>
 </div>
 
 <div style="display: flex; gap: 10px;">
   <div style="flex: 7; text-align: left;">
-    <!-- First column with two paragraphs -->
     <p>Aquavit 2021<br> Plön, Germany - Oral presentation</p>
   </div>
   <div style="flex: 2; text-align: right;">
-    <!-- Second column with one paragraph -->
     <p>17-18 Jun 2021</p>
   </div>
 </div>
 
 <div style="display: flex; gap: 10px;">
   <div style="flex: 7; text-align: left;">
-    <!-- First column with two paragraphs -->
     <p>International Max Planck Research School for Evolutionary Biology Retreat<br> Plön, Germany - Video presentation</p>
   </div>
   <div style="flex: 2; text-align: right;">
-    <!-- Second column with one paragraph -->
     <p>17-18 Sep 2020</p>
   </div>
 </div>
 
 <div style="display: flex; gap: 10px;">
   <div style="flex: 7; text-align: left;">
-    <!-- First column with two paragraphs -->
     <p>International Max Planck Research School for Evolutionary Biology Retreat<br> Oeversee, Germany - Poster presentation</p>
   </div>
   <div style="flex: 2; text-align: right;">
-    <!-- Second column with one paragraph -->
     <p>11-13 Sep 2019</p>
   </div>
 </div>
 
 <div style="display: flex; gap: 10px;">
   <div style="flex: 7; text-align: left;">
-    <!-- First column with two paragraphs -->
     <p>Microbiota, Probiotics and Host, 12th Seeon Conference<br> Seeon, Germany - Poster presentation</p>
   </div>
   <div style="flex: 2; text-align: right;">
-    <!-- Second column with one paragraph -->
     <p>28-30 Jun 2019</p>
   </div>
 </div>
