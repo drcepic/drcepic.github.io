@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-- **Čepić A**, Rausch P, Geese T, Dempfle A, Grassl GA, Baines JF. **Host genetics shapes the recovery of the gut microbiome after antibiotic treatment: the role of the blood group related B4galnt2 gene.** mSystems 2026 11:e01640-25. doi: [10.3389/fimmu.2023.1212551](https://doi.org/10.3389/fimmu.2023.1212551)](https://doi.org/10.1128/msystems.01640-25)
+- **Čepić A**, Rausch P, Geese T, Dempfle A, Grassl GA, Baines JF. **Host genetics shapes the recovery of the gut microbiome after antibiotic treatment: the role of the blood group related B4galnt2 gene.** mSystems 2026 doi: [10.1128/msystems.01640-25](https://doi.org/10.1128/msystems.01640-25)
 
 - Vallier M, Suwandi A, Ehrhardt K, Belheouane M, Berry D, **Čepić A**, Galeev A, Johnsen JM, Grassl GA, Baines JF. **Pathometagenomics reveals susceptibility to intestinal infection by *Morganella* to be mediated by the blood group-related *B4galnt2* gene in wild mice.** Gut Microbes. 2023 doi: [10.1080/19490976.2022.2164448](https://doi.org/10.1080/19490976.2022.2164448)
 
